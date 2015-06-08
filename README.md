@@ -5,3 +5,4 @@ R scripts used for calculations in Shade et al. 2013 ISMEJ
 by A Shade, JG Caporaso, J Handelsman, R Knight, N Fierer   
 The ISME Journal 7 (8), 1493-1506
 
+*   [VarDistance.R](VarDistance.R):  calculates median absolute deviance, standard deviation, and variance on pairwise community distances or dissimilaries within user-defined categorical groups.
